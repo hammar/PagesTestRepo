@@ -1,4 +1,4 @@
 # PagesTestRepo
 
-* [CV](CV)
-* [Code](Code)
+* [CV](CV.md)
+* [Code](Code.md)
